@@ -1,2 +1,1 @@
-# Hinoka-Discord.py
-For Honkai Impact Purposes
+# Hinoka-Bot
